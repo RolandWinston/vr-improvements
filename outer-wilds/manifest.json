@@ -1,0 +1,12 @@
+{
+  "filename": "OuterVRLandingAssist.dll",
+  "author": "Local VR adaptation",
+  "name": "VR Near-Ground Landing Assist (Local Preview)",
+  "uniqueName": "Local.OuterVRLandingAssist",
+  "version": "0.1.0",
+  "owmlVersion": "2.16.3",
+  "dependencies": [
+    "Raicuparta.NomaiVR"
+  ],
+  "requireVR": true
+}
